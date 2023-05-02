@@ -1,6 +1,3 @@
-# Footer_Designs
- 
- 
  <h1 align="center">
   Footer Designs
 </h1>
